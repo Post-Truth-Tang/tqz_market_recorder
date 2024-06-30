@@ -1,0 +1,202 @@
+{
+    "hc-eb": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "hc2110.SHFE",
+            "eb2108.DCE"
+        ],
+        "setting": {}
+    },
+    "bu-SR": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "bu2109.SHFE",
+            "SR109.CZCE"
+        ],
+        "setting": {}
+    },
+    "cu-AP": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "cu2108.SHFE",
+            "AP110.CZCE"
+        ],
+        "setting": {}
+    },
+    "eb-c": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "eb2108.DCE",
+            "c2109.DCE"
+        ],
+        "setting": {}
+    },
+    "pg-CJ": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "pg2108.DCE",
+            "CJ201.CZCE"
+        ],
+        "setting": {}
+    },
+    "FG-jm": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "FG201.CZCE",
+            "jm2109.DCE"
+        ],
+        "setting": {}
+    },
+    "fu-cs": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "fu2109.SHFE",
+            "cs2109.DCE"
+        ],
+        "setting": {}
+    },
+    "i-CF": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "i2109.DCE",
+            "CF109.CZCE"
+        ],
+        "setting": {}
+    },
+    "sp-p": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "sp2109.SHFE",
+            "p2109.DCE"
+        ],
+        "setting": {}
+    },
+    "ZC-jd": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "ZC109.CZCE",
+            "jd2109.DCE"
+        ],
+        "setting": {}
+    },
+    "MA-m": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "MA109.CZCE",
+            "m2109.DCE"
+        ],
+        "setting": {}
+    },
+    "pb-a": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "pb2108.SHFE",
+            "a2109.DCE"
+        ],
+        "setting": {}
+    },
+    "rb-SR": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "rb2110.SHFE",
+            "SR109.CZCE"
+        ],
+        "setting": {}
+    },
+    "ru-RM": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "ru2109.SHFE",
+            "RM109.CZCE"
+        ],
+        "setting": {}
+    },
+    "ss-a": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "ss2108.SHFE",
+            "a2109.DCE"
+        ],
+        "setting": {}
+    },
+    "zn-m": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "zn2108.SHFE",
+            "m2109.DCE"
+        ],
+        "setting": {}
+    },
+    "pp-cs": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "pp2109.DCE",
+            "cs2109.DCE"
+        ],
+        "setting": {}
+    },
+    "ag-jd": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "ag2112.SHFE",
+            "jd2109.DCE"
+        ],
+        "setting": {}
+    },
+    "jm-bu": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "jm2109.DCE",
+            "bu2109.SHFE"
+        ],
+        "setting": {}
+    },
+    "sp-pg": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "sp2109.SHFE",
+            "pg2108.DCE"
+        ],
+        "setting": {}
+    },
+    "i-SA": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "i2109.DCE",
+            "SA109.CZCE"
+        ],
+        "setting": {}
+    },
+    "rb-eg": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "rb2110.SHFE",
+            "eg2109.DCE"
+        ],
+        "setting": {}
+    },
+    "SF-sc": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "SF109.CZCE",
+            "sc2108.INE"
+        ],
+        "setting": {}
+    },
+    "ni-MA": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "ni2108.SHFE",
+            "MA109.CZCE"
+        ],
+        "setting": {}
+    },
+    "pb-TA": {
+        "class_name": "PairTradingStrategy",
+        "vt_symbols": [
+            "pb2108.SHFE",
+            "TA109.CZCE"
+        ],
+        "setting": {}
+    }
+}

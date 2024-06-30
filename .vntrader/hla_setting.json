@@ -1,0 +1,256 @@
+{
+    "l2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "l2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "j2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "j2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "bu2109.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "bu2109.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "cs2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "cs2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "cu2108.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "cu2108.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "CF109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "CF109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "m2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "m2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "eb2108.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "eb2108.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "fu2109.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "fu2109.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "i2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "i2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "OI109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "OI109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "AP110.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "AP110.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "PF109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "PF109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "p2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "p2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "TA109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "TA109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "sp2109.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "sp2109.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "SF109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "SF109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "SR109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "SR109.CZCE",
+        "setting": {
+            "bigpointvalue": 10
+        }
+    },
+    "SA109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "SA109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 20
+        }
+    },
+    "MA109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "MA109.CZCE",
+        "setting": {
+            "bigpointvalue": 10
+        }
+    },
+    "FG109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "FG109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 20
+        }
+    },
+    "ZC109.CZCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "ZC109.CZCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "ag2112.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "ag2112.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 15
+        }
+    },
+    "pp2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "pp2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "ni2108.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "ni2108.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 1
+        }
+    },
+    "rb2110.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "rb2110.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "ru2109.SHFE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "ru2109.SHFE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "v2109.DCE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "v2109.DCE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "sc2108.INE.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "sc2108.INE",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 1000
+        }
+    },
+    "T2109.CFFEX.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "T2109.CFFEX",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 10000
+        }
+    },
+    "IF2107.CFFEX.HLA": {
+        "class_name": "HLASignalStrategy",
+        "vt_symbol": "IF2107.CFFEX",
+        "setting": {
+            "class_name": "HLASignalStrategy",
+            "bigpointvalue": 300
+        }
+    },
+    "IC2108.CFFEX.XPA": {
+        "class_name": "XPAONEStrategy",
+        "vt_symbol": "IC2108.CFFEX",
+        "setting": {
+            "class_name": "XPAONEStrategy",
+            "bigpointvalue": 200
+        }
+    }
+}

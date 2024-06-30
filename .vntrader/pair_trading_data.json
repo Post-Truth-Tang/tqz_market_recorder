@@ -1,0 +1,377 @@
+{
+    "hc-eb": {
+        "pos": {
+            "hc2110.SHFE": -1,
+            "eb2108.DCE": 1
+        },
+        "target_position": {
+            "hc2110.SHFE": 1,
+            "eb2108.DCE": -1
+        },
+        "er_factor": {
+            "hc2110.SHFE": 0.1691305437233776,
+            "eb2108.DCE": 0.14483111566018425
+        },
+        "realmoney": 80000
+    },
+    "bu-SR": {
+        "pos": {
+            "bu2109.SHFE": 6,
+            "SR109.CZCE": -2
+        },
+        "target_position": {
+            "bu2109.SHFE": 2,
+            "SR109.CZCE": -1
+        },
+        "er_factor": {
+            "bu2109.SHFE": 0.14285714285714285,
+            "SR109.CZCE": 0.055443548387096774
+        },
+        "realmoney": 80000
+    },
+    "cu-AP": {
+        "pos": {
+            "cu2108.SHFE": 0,
+            "AP110.CZCE": -1
+        },
+        "target_position": {
+            "cu2108.SHFE": 1,
+            "AP110.CZCE": -1
+        },
+        "er_factor": {
+            "cu2108.SHFE": -0.0172543135783946,
+            "AP110.CZCE": -0.09814323607427056
+        },
+        "realmoney": 80000
+    },
+    "eb-c": {
+        "pos": {
+            "eb2108.DCE": 4,
+            "c2109.DCE": -6
+        },
+        "target_position": {
+            "eb2108.DCE": 1,
+            "c2109.DCE": -2
+        },
+        "er_factor": {
+            "eb2108.DCE": 0.14483111566018425,
+            "c2109.DCE": -0.12228571428571429
+        },
+        "realmoney": 80000
+    },
+    "pg-CJ": {
+        "pos": {
+            "pg2108.DCE": 0,
+            "CJ201.CZCE": 0
+        },
+        "target_position": {
+            "pg2108.DCE": 1,
+            "CJ201.CZCE": -2
+        },
+        "er_factor": {
+            "pg2108.DCE": 0.16799489958559133,
+            "CJ201.CZCE": -0.08227848101265822
+        },
+        "realmoney": 80000
+    },
+    "FG-jm": {
+        "pos": {
+            "FG201.CZCE": -1,
+            "jm2109.DCE": 0
+        },
+        "target_position": {
+            "FG201.CZCE": 1,
+            "jm2109.DCE": -1
+        },
+        "er_factor": {
+            "FG201.CZCE": 0.16916488222698073,
+            "jm2109.DCE": 0.029891304347826088
+        },
+        "realmoney": 80000
+    },
+    "fu-cs": {
+        "pos": {
+            "fu2109.SHFE": 8,
+            "cs2109.DCE": -6
+        },
+        "target_position": {
+            "fu2109.SHFE": 3,
+            "cs2109.DCE": -2
+        },
+        "er_factor": {
+            "fu2109.SHFE": 0.04720616570327553,
+            "cs2109.DCE": -0.11716621253405994
+        },
+        "realmoney": 80000
+    },
+    "i-CF": {
+        "pos": {
+            "i2109.DCE": -2,
+            "CF109.CZCE": 2
+        },
+        "target_position": {
+            "i2109.DCE": -1,
+            "CF109.CZCE": 1
+        },
+        "er_factor": {
+            "i2109.DCE": 0.05731462925851703,
+            "CF109.CZCE": 0.10728269381362568
+        },
+        "realmoney": 80000
+    },
+    "sp-p": {
+        "pos": {
+            "sp2109.SHFE": 2,
+            "p2109.DCE": -2
+        },
+        "target_position": {
+            "sp2109.SHFE": 1,
+            "p2109.DCE": -1
+        },
+        "er_factor": {
+            "sp2109.SHFE": 0.08319738988580751,
+            "p2109.DCE": 0.01529051987767584
+        },
+        "realmoney": 80000
+    },
+    "ZC-jd": {
+        "pos": {
+            "ZC109.CZCE": 0,
+            "jd2109.DCE": 0
+        },
+        "target_position": {
+            "ZC109.CZCE": 1,
+            "jd2109.DCE": -2
+        },
+        "er_factor": {
+            "ZC109.CZCE": 0.06751666183714873,
+            "jd2109.DCE": -0.1149584487534626
+        },
+        "realmoney": 80000
+    },
+    "MA-m": {
+        "pos": {
+            "MA109.CZCE": 7,
+            "m2109.DCE": -5
+        },
+        "target_position": {
+            "MA109.CZCE": 3,
+            "m2109.DCE": -2
+        },
+        "er_factor": {
+            "MA109.CZCE": 0.12437185929648241,
+            "m2109.DCE": -0.016091954022988506
+        },
+        "realmoney": 80000
+    },
+    "pb-a": {
+        "pos": {
+            "pb2108.SHFE": 0,
+            "a2109.DCE": 0
+        },
+        "target_position": {
+            "pb2108.SHFE": -1,
+            "a2109.DCE": 1
+        },
+        "er_factor": {
+            "pb2108.SHFE": 0.08237378210806023,
+            "a2109.DCE": 0.15687140963323024
+        },
+        "realmoney": 80000
+    },
+    "rb-SR": {
+        "pos": {
+            "rb2110.SHFE": -1,
+            "SR109.CZCE": 0
+        },
+        "target_position": {
+            "rb2110.SHFE": 1,
+            "SR109.CZCE": -1
+        },
+        "er_factor": {
+            "rb2110.SHFE": 0.14815825375170533,
+            "SR109.CZCE": 0.055443548387096774
+        },
+        "realmoney": 80000
+    },
+    "ru-RM": {
+        "pos": {
+            "ru2109.SHFE": 2,
+            "RM109.CZCE": -5
+        },
+        "target_position": {
+            "ru2109.SHFE": 1,
+            "RM109.CZCE": -2
+        },
+        "er_factor": {
+            "ru2109.SHFE": 0.0524048815506102,
+            "RM109.CZCE": -0.042098840756558877
+        },
+        "realmoney": 80000
+    },
+    "ss-a": {
+        "pos": {
+            "ss2108.SHFE": 2,
+            "a2109.DCE": -2
+        },
+        "target_position": {
+            "ss2108.SHFE": 1,
+            "a2109.DCE": -1
+        },
+        "er_factor": {
+            "ss2108.SHFE": 0.1836212412028151,
+            "a2109.DCE": 0.15687140963323024
+        },
+        "realmoney": 80000
+    },
+    "zn-m": {
+        "pos": {
+            "zn2108.SHFE": 0,
+            "m2109.DCE": 0
+        },
+        "target_position": {
+            "zn2108.SHFE": -1,
+            "m2109.DCE": 2
+        },
+        "er_factor": {
+            "zn2108.SHFE": -0.017361111111111112,
+            "m2109.DCE": 0.07048458149779736
+        },
+        "realmoney": 80000
+    },
+    "pp-cs": {
+        "pos": {
+            "pp2109.DCE": 4,
+            "cs2109.DCE": -6
+        },
+        "target_position": {
+            "pp2109.DCE": 1,
+            "cs2109.DCE": -2
+        },
+        "er_factor": {
+            "pp2109.DCE": 0.1383399209486166,
+            "cs2109.DCE": -0.11716621253405994
+        },
+        "realmoney": 80000
+    },
+    "ag-jd": {
+        "pos": {
+            "ag2112.SHFE": 2,
+            "jd2109.DCE": -3
+        },
+        "target_position": {
+            "ag2112.SHFE": 1,
+            "jd2109.DCE": -1
+        },
+        "er_factor": {
+            "ag2112.SHFE": 0.0026867275658248252,
+            "jd2109.DCE": -0.20388349514563106
+        },
+        "realmoney": 80000
+    },
+    "jm-bu": {
+        "pos": {
+            "jm2109.DCE": -2,
+            "bu2109.SHFE": 5
+        },
+        "target_position": {
+            "jm2109.DCE": -1,
+            "bu2109.SHFE": 2
+        },
+        "er_factor": {
+            "jm2109.DCE": 0.029891304347826088,
+            "bu2109.SHFE": 0.14285714285714285
+        },
+        "realmoney": 80000
+    },
+    "sp-pg": {
+        "pos": {
+            "sp2109.SHFE": 0,
+            "pg2108.DCE": 0
+        },
+        "target_position": {
+            "sp2109.SHFE": -1,
+            "pg2108.DCE": 1
+        },
+        "er_factor": {
+            "sp2109.SHFE": 0.08319738988580751,
+            "pg2108.DCE": 0.20248447204968945
+        },
+        "realmoney": 80000
+    },
+    "i-SA": {
+        "pos": {
+            "i2109.DCE": 0,
+            "SA109.CZCE": 1
+        },
+        "target_position": {
+            "i2109.DCE": 1,
+            "SA109.CZCE": -1
+        },
+        "er_factor": {
+            "i2109.DCE": 0.05731462925851703,
+            "SA109.CZCE": 0.035202086049543675
+        },
+        "realmoney": 80000
+    },
+    "rb-eg": {
+        "pos": {
+            "rb2110.SHFE": -1,
+            "eg2109.DCE": 0
+        },
+        "target_position": {
+            "rb2110.SHFE": 1,
+            "eg2109.DCE": -1
+        },
+        "er_factor": {
+            "rb2110.SHFE": 0.14815825375170533,
+            "eg2109.DCE": 0.10874625872963087
+        },
+        "realmoney": 80000
+    },
+    "SF-sc": {
+        "pos": {
+            "SF109.CZCE": -1,
+            "sc2108.INE": 0
+        },
+        "target_position": {
+            "SF109.CZCE": 1,
+            "sc2108.INE": -1
+        },
+        "er_factor": {
+            "SF109.CZCE": 0.10529845741113347,
+            "sc2108.INE": -0.016379672406551787
+        },
+        "realmoney": 80000
+    },
+    "ni-MA": {
+        "pos": {
+            "ni2108.SHFE": 0,
+            "MA109.CZCE": 1
+        },
+        "target_position": {
+            "ni2108.SHFE": 1,
+            "MA109.CZCE": -3
+        },
+        "er_factor": {
+            "ni2108.SHFE": 0.15858453473132372,
+            "MA109.CZCE": 0.09046849757673667
+        },
+        "realmoney": 80000
+    },
+    "pb-TA": {
+        "pos": {
+            "pb2108.SHFE": 2,
+            "TA109.CZCE": -7
+        },
+        "target_position": {
+            "pb2108.SHFE": 1,
+            "TA109.CZCE": -3
+        },
+        "er_factor": {
+            "pb2108.SHFE": 0.08237378210806023,
+            "TA109.CZCE": 0.06583506583506583
+        },
+        "realmoney": 80000
+    }
+}

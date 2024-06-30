@@ -1,0 +1,426 @@
+{
+  "strategies": {
+    "hft": [
+      {
+        "active": false,
+        "id": "hft_rb_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.rb.2205",
+          "record_hft_log": true,
+          "long_order_offset": 5,
+          "short_order_offset": 5,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_zn_2203",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.zn.2203",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_al_2203",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.al.2203",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_ru_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.ru.2205",
+          "record_hft_log": true,
+          "long_order_offset": 3,
+          "short_order_offset": 3,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_sp_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.sp.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_bu_2206",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.bu.2206",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_hc_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.hc.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_ag_2206",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.ag.2206",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_fu_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "SHFE.fu.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_cs_2203",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.cs.2203",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_a_2203",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.a.2203",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_p_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.p.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_c_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.c.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_i_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.i.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_jd_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.jd.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_l_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.l.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_m_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.m.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_y_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.y.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_v_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.v.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_CF_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.CF.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_SR_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.SR.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_TA_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.TA.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_OI_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.OI.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_MA_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.MA.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_FG_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.FG.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": false,
+        "id": "hft_RM_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.RM.2205",
+          "record_hft_log": true,
+          "long_order_offset": 6,
+          "short_order_offset": 6,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_SF_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "CZCE.SF.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      },
+      {
+        "active": true,
+        "id": "hft_pp_2205",
+        "name": "WtHftStraFact.SimpleHft",
+        "params": {
+          "code": "DCE.pp.2205",
+          "record_hft_log": true,
+          "long_order_offset": 4,
+          "short_order_offset": 4,
+          "market_making_scan_interval": 5,
+          "offset_open_minutes": 0,
+          "offset_close_minutes": 5
+        },
+        "trader": "simnow"
+      }
+    ]
+  }
+}

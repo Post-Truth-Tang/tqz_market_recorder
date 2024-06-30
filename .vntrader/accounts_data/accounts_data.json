@@ -1,0 +1,62 @@
+{
+    "RHWX005": {
+        "account_id": "RHWX005",
+        "balance": 20169851.16,
+        "risk_percent": 0.0
+    },
+    "20100025": {
+        "account_id": "20100025",
+        "balance": 9786593.54,
+        "risk_percent": 8.64
+    },
+    "TYWY80": {
+        "account_id": "TYWY80",
+        "balance": 10128073.92,
+        "risk_percent": 8.54
+    },
+    "fx218925z": {
+        "account_id": "fx218925z",
+        "balance": 50777889.03,
+        "risk_percent": 9.03
+    },
+    "303053": {
+        "account_id": "303053",
+        "balance": 19960634.5,
+        "risk_percent": 5.02
+    },
+    "gy80009": {
+        "account_id": "gy80009",
+        "balance": 9737845.34,
+        "risk_percent": 3.93
+    },
+    "qs88039": {
+        "account_id": "qs88039",
+        "balance": 9895325.67,
+        "risk_percent": 9.99
+    },
+    "TYX032": {
+        "account_id": "TYX032",
+        "balance": 30434563.07,
+        "risk_percent": 8.66
+    },
+    "GL0071": {
+        "account_id": "GL0071",
+        "balance": 19513713.34,
+        "risk_percent": 4.84
+    },
+    "JHfx0604": {
+        "account_id": "JHfx0604",
+        "balance": 9792902.94,
+        "risk_percent": 8.46
+    },
+    "JH2fx0702": {
+        "account_id": "JH2fx0702",
+        "balance": 9797147.62,
+        "risk_percent": 8.86
+    },
+    "1880032": {
+        "account_id": "1880032",
+        "balance": 9997822.38,
+        "risk_percent": 9.54
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "tick": {
+        "bu2206.SHFE": {
+            "symbol": "bu2206",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "al2203.SHFE": {
+            "symbol": "al2203",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "cs2203.DCE": {
+            "symbol": "cs2203",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "zn2203.SHFE": {
+            "symbol": "zn2203",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "a2203.DCE": {
+            "symbol": "a2203",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "ru2205.SHFE": {
+            "symbol": "ru2205",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "sp2205.SHFE": {
+            "symbol": "sp2205",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "rb2205.SHFE": {
+            "symbol": "rb2205",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "hc2205.SHFE": {
+            "symbol": "hc2205",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "ag2206.SHFE": {
+            "symbol": "ag2206",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        },
+        "SR205.CZCE": {
+            "symbol": "SR205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "CF205.CZCE": {
+            "symbol": "CF205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "TA205.CZCE": {
+            "symbol": "TA205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "i2205.DCE": {
+            "symbol": "i2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "v2205.DCE": {
+            "symbol": "v2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "y2205.DCE": {
+            "symbol": "y2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "c2205.DCE": {
+            "symbol": "c2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "l2205.DCE": {
+            "symbol": "l2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "m2205.DCE": {
+            "symbol": "m2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "p2205.DCE": {
+            "symbol": "p2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "pp2205.DCE": {
+            "symbol": "pp2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "FG205.CZCE": {
+            "symbol": "FG205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "MA205.CZCE": {
+            "symbol": "MA205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "OI205.CZCE": {
+            "symbol": "OI205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "RM205.CZCE": {
+            "symbol": "RM205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "SF205.CZCE": {
+            "symbol": "SF205",
+            "exchange": "CZCE",
+            "gateway_name": "CTP"
+        },
+        "jd2205.DCE": {
+            "symbol": "jd2205",
+            "exchange": "DCE",
+            "gateway_name": "CTP"
+        },
+        "fu2205.SHFE": {
+            "symbol": "fu2205",
+            "exchange": "SHFE",
+            "gateway_name": "CTP"
+        }
+    },
+    "bar": {}
+}

@@ -1,0 +1,234 @@
+{
+    "ag2112.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "ag2112.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 15
+        }
+    },
+    "AP110.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "AP110.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "bu2109.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "bu2109.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "cs2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "cs2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "fu2109.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "fu2109.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "ni2108.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "ni2108.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 1
+        }
+    },
+    "sp2109.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "sp2109.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "cu2108.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "cu2108.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "m2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "m2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "p2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "p2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "v2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "v2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "l2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "l2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "j2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "j2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "i2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "i2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "CF109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "CF109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "OI109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "OI109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "SR109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "SR109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "rb2110.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "rb2110.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "ZC109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "ZC109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 100
+        }
+    },
+    "PF109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "PF109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "eb2108.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "eb2108.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "FG201.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "FG201.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "MA109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "MA109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "pp2109.DCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "pp2109.DCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "ru2109.SHFE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "ru2109.SHFE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10
+        }
+    },
+    "SA109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "SA109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 20
+        }
+    },
+    "SF109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "SF109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    },
+    "T2109.CFFEX.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "T2109.CFFEX",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 10000
+        }
+    },
+    "TA109.CZCE.HSR": {
+        "class_name": "HSRStrategy",
+        "vt_symbol": "TA109.CZCE",
+        "setting": {
+            "class_name": "HSRStrategy",
+            "bigpointvalue": 5
+        }
+    }
+}

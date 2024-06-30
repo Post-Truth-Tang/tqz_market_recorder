@@ -1,0 +1,229 @@
+{
+    "l2109.DCE.HLA": {
+        "pos": 2,
+        "entryprice": 7943.0,
+        "atr_value": 131.0,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "j2109.DCE.HLA": {
+        "pos": -1,
+        "entryprice": 2550.0,
+        "atr_value": 105.86666666666666,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "bu2109.SHFE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 104.93333333333334,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "cs2109.DCE.HLA": {
+        "pos": -2,
+        "entryprice": 3101.0,
+        "atr_value": 43.333333333333336,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "cu2108.SHFE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 1221.3333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "CF109.CZCE.HLA": {
+        "pos": 1,
+        "entryprice": 2.11,
+        "atr_value": 208.33333333333334,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "m2109.DCE.HLA": {
+        "pos": 1,
+        "entryprice": 3656.0,
+        "atr_value": 73.8,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "eb2108.DCE.HLA": {
+        "pos": 1,
+        "entryprice": 8962.0,
+        "atr_value": 262.3333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "fu2109.SHFE.HLA": {
+        "pos": -1,
+        "entryprice": 2592.0,
+        "atr_value": 73.53333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "i2109.DCE.HLA": {
+        "pos": 1,
+        "entryprice": 1222.5,
+        "atr_value": 59.93333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "OI109.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 234.33333333333334,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "AP110.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 1.1,
+        "atr_value": 113.06666666666666,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "PF109.CZCE.HLA": {
+        "pos": 1,
+        "entryprice": 7155.0,
+        "atr_value": 143.2,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "p2109.DCE.HLA": {
+        "pos": 1,
+        "entryprice": 7670.0,
+        "atr_value": 264.8,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "TA109.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 161.2,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "sp2109.SHFE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 145.33333333333334,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "SF109.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 211.2,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "SR109.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 3.1,
+        "atr_value": 67.8,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "SA109.CZCE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 57.53333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "MA109.CZCE.HLA": {
+        "pos": 1,
+        "entryprice": 2.1,
+        "atr_value": 59.93333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "FG201.CZCE.HLA": {
+        "pos": 1,
+        "entryprice": 4.0,
+        "atr_value": 78.06666666666666,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "ZC109.CZCE.HLA": {
+        "pos": -1,
+        "entryprice": 778.0,
+        "atr_value": 28.75999999999999,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "ag2112.SHFE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 403.5066666666667,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "pp2109.DCE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 147.66666666666666,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "ni2108.SHFE.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 3492.3333333333335,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "rb2110.SHFE.HLA": {
+        "pos": 1,
+        "entryprice": 5240.0,
+        "atr_value": 132.53333333333333,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "ru2109.SHFE.HLA": {
+        "pos": 1,
+        "entryprice": 13270.0,
+        "atr_value": 236.33333333333334,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "v2109.DCE.HLA": {
+        "pos": 1,
+        "entryprice": 8865.0,
+        "atr_value": 163.0,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "sc2108.INE.HLA": {
+        "pos": -1,
+        "entryprice": 438.6,
+        "atr_value": 13.20666666666668,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "T2109.CFFEX.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 0.22633333333333497,
+        "realmoney": 140000,
+        "target_pos": 0
+    },
+    "IF2107.CFFEX.HLA": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 82.333333333353,
+        "realmoney": 500000,
+        "target_pos": 0
+    },
+    "IC2108.CFFEX.XPA": {
+        "pos": 0,
+        "entryprice": 40.0,
+        "atr_value": 4.1081450684223215,
+        "realmoney": 500000,
+        "size": 1,
+        "kaicang_flag": true,
+        "day_counter": 1,
+        "target_pos": 0
+    }
+}

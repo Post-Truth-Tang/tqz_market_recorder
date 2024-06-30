@@ -1,0 +1,234 @@
+{
+    "ag2112.SHFE.HSR": {
+        "pos": 1,
+        "entryprice": 5457.0,
+        "atr_value": 25.51102715744264,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "AP110.CZCE.HSR": {
+        "pos": -1,
+        "entryprice": 1.1,
+        "atr_value": 48.58956400981993,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "bu2109.SHFE.HSR": {
+        "pos": 1,
+        "entryprice": 3362.0,
+        "atr_value": 31.89413966818167,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "cs2109.DCE.HSR": {
+        "pos": 3,
+        "entryprice": 2965.0,
+        "atr_value": 14.334879666176638,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "fu2109.SHFE.HSR": {
+        "pos": 2,
+        "entryprice": 2547.0,
+        "atr_value": 25.598364321054568,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "ni2108.SHFE.HSR": {
+        "pos": 1,
+        "entryprice": 139620.0,
+        "atr_value": 952.1805404445347,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "sp2109.SHFE.HSR": {
+        "pos": 4,
+        "entryprice": 6205.0,
+        "atr_value": 54.31750294532943,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "cu2108.SHFE.HSR": {
+        "pos": 1,
+        "entryprice": 69712.0,
+        "atr_value": 382.60333773989504,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "m2109.DCE.HSR": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 21.389251538696417,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "p2109.DCE.HSR": {
+        "pos": 1,
+        "entryprice": 7576.0,
+        "atr_value": 78.99285165922316,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "v2109.DCE.HSR": {
+        "pos": 1,
+        "entryprice": 8922.0,
+        "atr_value": 57.919397137301885,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "l2109.DCE.HSR": {
+        "pos": 2,
+        "entryprice": 8184.0,
+        "atr_value": 55.585890293040755,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "j2109.DCE.HSR": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 36.40505958958466,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "i2109.DCE.HSR": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 17.941582841093425,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "CF109.CZCE.HSR": {
+        "pos": 1,
+        "entryprice": 2.11,
+        "atr_value": 106.6893507127404,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "OI109.CZCE.HSR": {
+        "pos": 1,
+        "entryprice": 10017.0,
+        "atr_value": 75.21564143797526,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "SR109.CZCE.HSR": {
+        "pos": -1,
+        "entryprice": 3.1,
+        "atr_value": 31.085185205790935,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "rb2110.SHFE.HSR": {
+        "pos": 1,
+        "entryprice": 5358.0,
+        "atr_value": 52.90516302561044,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "ZC109.CZCE.HSR": {
+        "pos": 2,
+        "entryprice": 801.4000000000001,
+        "atr_value": 9.205170652131644,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "PF109.CZCE.HSR": {
+        "pos": 2,
+        "entryprice": 7298.0,
+        "atr_value": 55.50367434039336,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "eb2108.DCE.HSR": {
+        "pos": 1,
+        "entryprice": 9168.0,
+        "atr_value": 94.86895215122773,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "FG201.CZCE.HSR": {
+        "pos": 2,
+        "entryprice": 30.0,
+        "atr_value": 26.207646636943007,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "MA109.CZCE.HSR": {
+        "pos": 2,
+        "entryprice": 2.1,
+        "atr_value": 22.224277702252675,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "pp2109.DCE.HSR": {
+        "pos": 2,
+        "entryprice": 8534.0,
+        "atr_value": 54.92459822109274,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "ru2109.SHFE.HSR": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 115.88146802634941,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "SA109.CZCE.HSR": {
+        "pos": 1,
+        "entryprice": 2285.0,
+        "atr_value": 21.56298691220376,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "SF109.CZCE.HSR": {
+        "pos": 0,
+        "entryprice": 0,
+        "atr_value": 88.68675332106473,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "T2109.CFFEX.HSR": {
+        "pos": 1,
+        "entryprice": 98.375,
+        "atr_value": 0.11735929749608467,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    },
+    "TA109.CZCE.HSR": {
+        "pos": 2,
+        "entryprice": 5035.0,
+        "atr_value": 54.96494463456239,
+        "realmoney": 60000,
+        "reentry_forbidden_flag": 0,
+        "target_pos": 0
+    }
+}

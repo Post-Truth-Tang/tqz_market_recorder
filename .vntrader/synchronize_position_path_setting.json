@@ -1,0 +1,9 @@
+{
+    "multi": 1,
+    "need_clear_position": false,
+    "synchronize_strategy_paths": {
+        "hla_strategy_path": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hla_data.json",
+        "hsr_strategy_path": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/hsr_data.json",
+        "pair_trading_strategy_path": "C:\\Users\\HIAPAD\\Desktop\\tqz_vnpy_futures\\tqzpy_futures/.vntrader/pair_trading_data.json"
+    }
+}
